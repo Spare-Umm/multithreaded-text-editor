@@ -15,6 +15,11 @@ This project was developed as part of the **Operating Systems** course to demons
 
 ---
 
+## 🎬 Demo Video
+
+[Watch Demo] https://www.youtube.com/watch?v=XnJXx4uIO2E
+
+
 ## ✨ Key Features
 
 ### Core Features
