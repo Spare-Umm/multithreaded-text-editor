@@ -44,7 +44,3 @@ This project was developed as part of the **Operating Systems** course to demons
 ### Prerequisites
 - Python 3.8 or higher installed
 
-### Steps
-
-1. Clone the repository:
-```bash
