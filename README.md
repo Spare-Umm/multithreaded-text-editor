@@ -9,7 +9,7 @@ A Notepad-like text editor built with Python Tkinter, demonstrating core operati
 
 ## 📝 Project Description
 
-**Notepad 11.2508.38.0** is a fully functional desktop text editor that mimics and extends the classic Windows Notepad. It includes advanced features such as multi-tab support, undo/redo, live status bar, Python code execution, and a built-in drawing tool.
+This project is a fully functional desktop text editor that mimics and extends the classic Windows Notepad. It includes advanced features such as multi-tab support, undo/redo, live status bar, Python code execution, and a built-in drawing tool.
 
 This project was developed as part of the **Operating Systems** course to demonstrate GUI programming, file handling, process management, and event-driven architecture.
 
